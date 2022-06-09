@@ -32,7 +32,8 @@ class DetailViewModel(application: Application) : AndroidViewModel(application) 
                 val sType= object : TypeToken<Student>(){}.type
                 val result = Gson().fromJson<Student>(response,sType)
                 studentLD.value=result
-                Log.d("showChoose", response.toString())
+                Log.d("showChoose", result.toString())
+                Log.d("showtest", response.toString())
 
             },
             {

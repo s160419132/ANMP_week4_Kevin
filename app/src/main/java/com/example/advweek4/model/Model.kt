@@ -10,5 +10,5 @@ data class Student(
     val bod:String?,
     val phone:String?,
     @SerializedName("photo_url")
-    val photoUrl:String?
+    val photoUrl:String?="test"
 )

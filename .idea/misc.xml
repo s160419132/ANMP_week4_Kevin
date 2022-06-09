@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/semester6/ANMP/AdvWeek4/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.146875" />
         <entry key="..\:/Kuliah/semester6/ANMP/AdvWeek4/app/src/main/res/layout/activity_main.xml" value="0.11875" />
         <entry key="..\:/Kuliah/semester6/ANMP/AdvWeek4/app/src/main/res/layout/fragment_student_detail.xml" value="0.264" />
         <entry key="..\:/Kuliah/semester6/ANMP/AdvWeek4/app/src/main/res/layout/fragment_student_list.xml" value="0.264" />
